@@ -1,4 +1,5 @@
 Blackjack Technical Assessment
+
 The purpose of this project is to create a simplified version of the game Blackjack using
 Java as the development language. The object of the game is to have two players that are
 dealt cards, the "human" and the dealer and each are trying to get as close to or equal to
